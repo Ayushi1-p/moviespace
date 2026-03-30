@@ -25,7 +25,7 @@ A movie search web application that allows users to search for any movie using A
 
 ## 🌐 Live Demo
 
-[👉 (PASTE YOUR VERCEL LINK HERE)](https://moviespace-moviesearch.netlify.app/)
+https://moviesearch-4yioidmak-ayushi1-ps-projects.vercel.app/
 
 ---
 
