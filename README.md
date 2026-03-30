@@ -29,7 +29,10 @@ https://moviesearch-4yioidmak-ayushi1-ps-projects.vercel.app/
 
 ---
 
+## Screenshot
+<img width="1887" height="852" alt="moviespace" src="https://github.com/user-attachments/assets/0e2cc17a-41bd-4fd9-81dc-d901664610e0" />
 
+---
 
 
 ## 📌 What I Learned
